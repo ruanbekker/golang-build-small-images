@@ -1,6 +1,8 @@
 # golang-build-small-images
 Demo of Building Small Golang Images
 
+![](https://user-images.githubusercontent.com/567298/55478306-aabb0600-561b-11e9-9cc6-730fadb4beeb.png)
+
 ## About
 So we thinking lets go with alpine right? Yeah sure lets build a small, lekke, but useless app running on go with alpine.
 
